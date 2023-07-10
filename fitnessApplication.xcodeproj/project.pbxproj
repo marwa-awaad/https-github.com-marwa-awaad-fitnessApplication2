@@ -21,6 +21,7 @@
 		E0F1D6522A5B8CEB009E4593 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F1D6512A5B8CEB009E4593 /* ContentView.swift */; };
 		E0F1D6542A5B8F2E009E4593 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F1D6532A5B8F2E009E4593 /* File.swift */; };
 		E0F1D6562A5B9252009E4593 /* informationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F1D6552A5B9251009E4593 /* informationViewController.swift */; };
+		E0F1D6582A5C22AD009E4593 /* resultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F1D6572A5C22AD009E4593 /* resultsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		E0F1D6512A5B8CEB009E4593 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E0F1D6532A5B8F2E009E4593 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 		E0F1D6552A5B9251009E4593 /* informationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = informationViewController.swift; sourceTree = "<group>"; };
+		E0F1D6572A5C22AD009E4593 /* resultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = resultsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				E0F1D6512A5B8CEB009E4593 /* ContentView.swift */,
 				E0F1D6532A5B8F2E009E4593 /* File.swift */,
 				E0F1D6552A5B9251009E4593 /* informationViewController.swift */,
+				E0F1D6572A5C22AD009E4593 /* resultsViewController.swift */,
 			);
 			path = fitnessApplication;
 			sourceTree = "<group>";
@@ -172,6 +175,7 @@
 				E0F1D6522A5B8CEB009E4593 /* ContentView.swift in Sources */,
 				E0F1D6332A5B7375009E4593 /* ViewController.swift in Sources */,
 				E0F1D62F2A5B7375009E4593 /* AppDelegate.swift in Sources */,
+				E0F1D6582A5C22AD009E4593 /* resultsViewController.swift in Sources */,
 				E0F1D6432A5B7483009E4593 /* signUpViewController.swift in Sources */,
 				E0F1D6312A5B7375009E4593 /* SceneDelegate.swift in Sources */,
 				E0F1D6562A5B9252009E4593 /* informationViewController.swift in Sources */,
